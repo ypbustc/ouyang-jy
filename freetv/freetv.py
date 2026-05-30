@@ -264,7 +264,7 @@ class ChannelTemplate:
                     
                 if "📡" in line and "#genre#" in line:
                     # 处理分类行
-                    parts = line.split('#genre#')
+                    parts = line.split(',#genre#')
                     if len(parts) > 0:
                         current_category = parts[0].replace("📡", "").strip()
                         if current_category and current_category not in self.categories:
