@@ -1,5 +1,5 @@
 #genre#
-更新时间,20260610 13:47:41
+更新时间,20260611 13:56:19
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -12,16 +12,14 @@ CCTV9,https://xykt-fix.github.io/Y77.m3u8
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13,http://go.bkpcp.top/mg/cctv13
 CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-卫视频道,#genre#
-贵州卫视,http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 江苏,#genre#
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8
@@ -39,10 +37,13 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+蕭山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 上虞1新闻综合,https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+上虞3新商都,https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞经济文化,https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 嵊州新闻综合,https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 云南,#genre#
@@ -51,6 +52,7 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 吉林,#genre#
 长春综合,https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 松原新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
+白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 港澳台,#genre#
 林正英,http://epg.112114.xyz/douyu/218859
