@@ -1,9 +1,9 @@
 #genre#
-更新时间,20260612 14:04:27
+更新时间,20260613 13:47:24
 
 央视频道,#genre#
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1,http://69.30.245.50/live/cctv1.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
@@ -25,10 +25,10 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 广东,#genre#
-韶关公共台,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 福建,#genre#
+福州广播电视台新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州广播电视台都市生活频道,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州电视台少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 浙江,#genre#
@@ -39,9 +39,9 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 蕭山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+上虞1新闻综合,https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞3新商都,https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞经济文化,https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 嵊州新闻综合,https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -53,8 +53,6 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 松原新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-港澳台,#genre#
-林正英,http://epg.112114.xyz/douyu/218859
 其它,#genre#
 欧美大片1,http://epg.112114.xyz/douyu/20415
 欧美大片2,http://epg.112114.xyz/douyu/2793084

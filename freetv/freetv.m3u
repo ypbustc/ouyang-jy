@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/EPG/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
 http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV2.png" group-title="央视频道", CCTV2
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV3.png" group-title="央视频道", CCTV3
@@ -41,12 +41,12 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-name="武进生活" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/武进生活.png" group-title="江苏", 武进生活
 https://live.wjyanghu.com/live/CH2.m3u8
-#EXTINF:-1 tvg-name="韶关公共台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/韶关公共台.png" group-title="广东", 韶关公共台
-https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 tvg-name="韶关综合台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/韶关综合台.png" group-title="广东", 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-name="河源综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/河源综合.png" group-title="广东", 河源综合
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-name="福州广播电视台新闻综合频道" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/福州广播电视台新闻综合频道.png" group-title="福建", 福州广播电视台新闻综合频道
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-name="福州广播电视台都市生活频道" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/福州广播电视台都市生活频道.png" group-title="福建", 福州广播电视台都市生活频道
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="福州电视台少儿频道" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/福州电视台少儿频道.png" group-title="福建", 福州电视台少儿频道
@@ -65,12 +65,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="新昌新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新昌新闻综合.png" group-title="浙江", 新昌新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 tvg-name="新昌休闲影视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新昌休闲影视.png" group-title="浙江", 新昌休闲影视
-https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/绍兴新闻综合.png" group-title="浙江", 绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 tvg-name="绍兴文化影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/绍兴文化影院.png" group-title="浙江", 绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-name="上虞1新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上虞1新闻综合.png" group-title="浙江", 上虞1新闻综合
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="上虞3新商都" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上虞3新商都.png" group-title="浙江", 上虞3新商都
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-name="上虞经济文化" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上虞经济文化.png" group-title="浙江", 上虞经济文化
@@ -89,8 +89,6 @@ https://stream2.jlntv.cn/sytv/sd/live.m3u8
 https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 tvg-name="辽源新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/辽源新闻综合.png" group-title="吉林", 辽源新闻综合
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 tvg-name="林正英" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/林正英.png" group-title="港澳台", 林正英
-http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 tvg-name="欧美大片1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/欧美大片1.png" group-title="其它", 欧美大片1
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 tvg-name="欧美大片2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/欧美大片2.png" group-title="其它", 欧美大片2
