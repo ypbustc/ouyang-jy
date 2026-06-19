@@ -1,4 +1,4 @@
-# 咪咕直播源 - 生成时间: 2026-06-18 06:15:06
+# 咪咕直播源 - 生成时间: 2026-06-19 06:35:22
 ##################################################
 
 
@@ -13,4 +13,3 @@
 # 陕西频道
 
 # 其它频道
-24小时城市联赛轮播台,http://gslbmgsplive.miguvideo.com/migu/lunbo/ouzhoubei/50/20240603/index.m3u8?msisdn=202606181419574af8093f6b5e4222b9a5d824d5868242&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20260618141957&Channel_ID=0116_2600033500-99000-201600010010028&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=132.196.80.129&SecurityKey=20260618141957&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=858a5a0051ccabf9c7afd7f96d4b1df1&ddCalcu=18f5vd8a1alb5a4ad06095f17cdcfaab7fc9&sv=10004&ct=android
