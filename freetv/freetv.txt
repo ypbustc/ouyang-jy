@@ -1,5 +1,5 @@
 #genre#
-更新时间,20260710 13:12:54
+更新时间,20260711 12:32:41
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -29,6 +29,7 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m
 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 福建,#genre#
+福州广播电视台新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州广播电视台都市生活频道,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州电视台少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 浙江,#genre#
@@ -37,10 +38,8 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 蕭山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 上虞1新闻综合,https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
@@ -51,13 +50,12 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 江津经济生活,http://222.179.155.21:1935/ch0.m3u8
 吉林,#genre#
-长春综合,https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 松原新闻综合,https://stream2.jlntv.cn/sytv/sd/live.m3u8
 白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 港澳台,#genre#
 林正英,http://epg.112114.xyz/douyu/218859
 其它,#genre#
-欧美大片1,http://epg.112114.xyz/douyu/20415
 欧美大片2,http://epg.112114.xyz/douyu/2793084
 欧美大片3,http://epg.112114.xyz/douyu/9249162
 贝爷影厅,http://epg.112114.xyz/douyu/252802
@@ -67,26 +65,34 @@ yy轮播,#genre#
 李连杰-电影,https://live.ottiptv.cc/yy/1382736873
 洪金宝-电影,https://live.ottiptv.cc/yy/1354924839
 成龙-电影,https://live.ottiptv.cc/yy/1354888751
-赌神-电影,https://live.ottiptv.cc/yy/1354889044
+林正英-电影,https://live.ottiptv.cc/yy/1354932444
 动作电影,https://live.ottiptv.cc/yy/1382745096
 国内动作大片-电影,https://live.ottiptv.cc/yy/1382745176
-国内喜剧-电影,https://live.ottiptv.cc/yy/1382736862
+国内喜剧-电影,https://live.ottiptv.cc/yy/1382851598
+国内喜剧-电影,https://live.ottiptv.cc/yy/1382735563
+百团大战-电影,https://live.ottiptv.cc/yy/1382736871
 举起手来-电影,https://live.ottiptv.cc/yy/1382736877
 伪装者-电视剧,https://live.ottiptv.cc/yy/1382851593
+伪装者-电视剧,https://live.ottiptv.cc/yy/1354936244
 正阳门下-电视剧,https://live.ottiptv.cc/yy/1382851588
 正阳门下-电视剧,https://live.ottiptv.cc/yy/1354931580
 北京爱情故事-电视剧,https://live.ottiptv.cc/yy/1382744423
 父母爱情-电视剧,https://live.ottiptv.cc/yy/1382851594
 父母爱情-电视剧,https://live.ottiptv.cc/yy/1354926650
+粟裕大将-电视剧,https://live.ottiptv.cc/yy/1354926542
 风筝-电视剧,https://live.ottiptv.cc/yy/1354931585
+闯关东-电视剧,https://live.ottiptv.cc/yy/1383546866
+士兵突击-电视剧,https://live.ottiptv.cc/yy/1382768483
 士兵突击-电视剧,https://live.ottiptv.cc/yy/1382851600
 情满四合院-电视剧,https://live.ottiptv.cc/yy/1382745089
-情满四合院-电视剧,https://live.ottiptv.cc/yy/1382851524
+情满四合院-电视剧,https://live.ottiptv.cc/yy/1382736848
 康熙王朝-电视剧,https://live.ottiptv.cc/yy/1382851583
 宰相刘罗锅-电视剧,https://live.ottiptv.cc/yy/1382745191
+宰相刘罗锅-电视剧,https://live.ottiptv.cc/yy/1353892468
+神医喜来乐-电视剧,https://live.ottiptv.cc/yy/1382714119
 雪中悍刀行-电视剧,https://live.ottiptv.cc/yy/1382660835
+倚天屠龙记-电视剧,https://live.ottiptv.cc/yy/33300793
 天龙八部-电视剧,https://live.ottiptv.cc/yy/1352300646
 天龙八部-电视剧,https://live.ottiptv.cc/yy/1355067965
-天龙八部-电视剧,https://live.ottiptv.cc/yy/1351814644
 新白娘子传奇-电视剧,https://live.ottiptv.cc/yy/1354930969
 刑事侦缉档案I-电视剧,https://live.ottiptv.cc/yy/1382851585
