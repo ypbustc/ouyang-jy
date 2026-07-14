@@ -1,5 +1,5 @@
 #genre#
-更新时间,20260713 12:48:01
+更新时间,20260714 12:24:11
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -38,11 +38,12 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 上虞1新闻综合,https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞3新商都,https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞经济文化,https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 嵊州新闻综合,https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 云南,#genre#
@@ -58,20 +59,18 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 其它,#genre#
 欧美大片1,http://epg.112114.xyz/douyu/20415
 欧美大片2,http://epg.112114.xyz/douyu/2793084
-欧美大片3,http://epg.112114.xyz/douyu/9249162
 贝爷影厅,http://epg.112114.xyz/douyu/252802
 刘德华-电影,http://epg.112114.xyz/douyu/2516864
-周星驰-电影,https://live.ottiptv.cc/yy/1354888671
 yy轮播,#genre#
-射雕英雄传(83版),https://live.ottiptv.cc/yy/1354210357
 李连杰-电影,https://live.ottiptv.cc/yy/1382736873
 洪金宝-电影,https://live.ottiptv.cc/yy/1354924839
 成龙-电影,https://live.ottiptv.cc/yy/1354888751
 赌神-电影,https://live.ottiptv.cc/yy/1354889044
 林正英-电影,https://live.ottiptv.cc/yy/1354932444
-周星驰-电影,https://live.ottiptv.cc/yy/1354888671
 经典港片枪战-电影,https://live.ottiptv.cc/yy/1355076627
 科幻动作-电影,https://live.ottiptv.cc/yy/1382749948
+动作电影,https://live.ottiptv.cc/yy/1382745096
+国内动作大片-电影,https://live.ottiptv.cc/yy/1382745176
 国内喜剧-电影,https://live.ottiptv.cc/yy/1382851598
 百团大战-电影,https://live.ottiptv.cc/yy/1382736871
 举起手来-电影,https://live.ottiptv.cc/yy/1382736877
@@ -82,14 +81,15 @@ yy轮播,#genre#
 北京爱情故事-电视剧,https://live.ottiptv.cc/yy/1382744423
 父母爱情-电视剧,https://live.ottiptv.cc/yy/1382851594
 父母爱情-电视剧,https://live.ottiptv.cc/yy/1354926650
+粟裕大将-电视剧,https://live.ottiptv.cc/yy/1354926542
 风筝-电视剧,https://live.ottiptv.cc/yy/1354931585
 大秧歌-电视剧,https://live.ottiptv.cc/yy/1354744544
-士兵突击-电视剧,https://live.ottiptv.cc/yy/1382768483
+士兵突击-电视剧,https://live.ottiptv.cc/yy/1382851600
 情满四合院-电视剧,https://live.ottiptv.cc/yy/1382745089
-情满四合院-电视剧,https://live.ottiptv.cc/yy/1382851524
-情满四合院-电视剧,https://live.ottiptv.cc/yy/1382736848
+情满四合院-电视剧,https://live.ottiptv.cc/yy/1382851601
+康熙王朝-电视剧,https://live.ottiptv.cc/yy/1382851583
 宰相刘罗锅-电视剧,https://live.ottiptv.cc/yy/1382745191
 宰相刘罗锅-电视剧,https://live.ottiptv.cc/yy/1353892468
 神医喜来乐-电视剧,https://live.ottiptv.cc/yy/1382714119
-雪中悍刀行-电视剧,https://live.ottiptv.cc/yy/1382660835
-天龙八部-电视剧,https://live.ottiptv.cc/yy/1352300646
+新白娘子传奇-电视剧,https://live.ottiptv.cc/yy/1354930969
+刑事侦缉档案I-电视剧,https://live.ottiptv.cc/yy/1382851585
