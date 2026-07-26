@@ -19,6 +19,8 @@ http://74.91.26.218:82/live/cctv10hd.m3u8
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV12.png" group-title="央视频道", CCTV12
 http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV13.png" group-title="央视频道", CCTV13
+http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV14.png" group-title="央视频道", CCTV14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV15.png" group-title="央视频道", CCTV15
@@ -30,17 +32,15 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV4欧洲.png" group-title="央视频道", CCTV4欧洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/武进新闻.png" group-title="江苏", 武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-name="武进生活" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/武进生活.png" group-title="江苏", 武进生活
 https://live.wjyanghu.com/live/CH2.m3u8
-#EXTINF:-1 tvg-name="韶关公共台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/韶关公共台.png" group-title="广东", 韶关公共台
-https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 tvg-name="韶关综合台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/韶关综合台.png" group-title="广东", 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-name="河源综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/河源综合.png" group-title="广东", 河源综合
@@ -77,6 +77,10 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="上虞3新商都" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上虞3新商都.png" group-title="浙江", 上虞3新商都
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-name="上虞经济文化" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上虞经济文化.png" group-title="浙江", 上虞经济文化
+https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/嵊州新闻综合.png" group-title="浙江", 嵊州新闻综合
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="江津新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/江津新闻综合.png" group-title="云南", 江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 tvg-name="江津经济生活" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/江津经济生活.png" group-title="云南", 江津经济生活
