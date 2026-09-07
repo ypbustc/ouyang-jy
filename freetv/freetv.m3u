@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/EPG/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV2.png" group-title="央视频道", CCTV2
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV3.png" group-title="央视频道", CCTV3
@@ -27,12 +29,16 @@ http://go.bkpcp.top/mg/cctv13
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV15.png" group-title="央视频道", CCTV15
 https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV16.png" group-title="央视频道", CCTV16
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV17.png" group-title="央视频道", CCTV17
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV4欧洲.png" group-title="央视频道", CCTV4欧洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/武进新闻.png" group-title="江苏", 武进新闻
@@ -59,12 +65,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浙江教科.png" group-title="浙江", 浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="萧山新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/萧山新闻综合.png" group-title="浙江", 萧山新闻综合
-https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-name="蕭山生活" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/蕭山生活.png" group-title="浙江", 蕭山生活
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-name="新昌新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新昌新闻综合.png" group-title="浙江", 新昌新闻综合
 https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 tvg-name="新昌休闲影视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新昌休闲影视.png" group-title="浙江", 新昌休闲影视
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-name="绍兴新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/绍兴新闻综合.png" group-title="浙江", 绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 tvg-name="绍兴文化影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/绍兴文化影院.png" group-title="浙江", 绍兴文化影院
@@ -81,8 +87,6 @@ http://222.179.155.21:1935/ch1.m3u8
 http://222.179.155.21:1935/ch0.m3u8
 #EXTINF:-1 tvg-name="万州三峡移民" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/万州三峡移民.png" group-title="云南", 万州三峡移民
 http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-name="长春综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/长春综合.png" group-title="吉林", 长春综合
-https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 #EXTINF:-1 tvg-name="松原新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/松原新闻综合.png" group-title="吉林", 松原新闻综合
 https://stream2.jlntv.cn/sytv/sd/live.m3u8
 #EXTINF:-1 tvg-name="白山新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/白山新闻综合.png" group-title="吉林", 白山新闻综合
