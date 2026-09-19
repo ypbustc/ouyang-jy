@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/EPG/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV1.png" group-title="央视频道", CCTV1
-http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV2.png" group-title="央视频道", CCTV2
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV3.png" group-title="央视频道", CCTV3
@@ -21,36 +19,32 @@ http://74.91.26.218:82/live/cctv11hd.m3u8
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV13.png" group-title="央视频道", CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV14.png" group-title="央视频道", CCTV14
-http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV15.png" group-title="央视频道", CCTV15
 https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV16.png" group-title="央视频道", CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV17.png" group-title="央视频道", CCTV17
-http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV4欧洲.png" group-title="央视频道", CCTV4欧洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="电影1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影1.png" group-title="其它", 电影1
-https://live.ottiptv.cc/yy/37454459
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CGTN.png" group-title="央视频道", CGTN
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="周星驰-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/周星驰-电影.png" group-title="其它", 周星驰-电影
 https://live.ottiptv.cc/yy/1354888671
 #EXTINF:-1 tvg-name="SCTV16" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/SCTV16.png" group-title="其它", SCTV16
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 tvg-name="射雕英雄传(83版)" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/射雕英雄传(83版).png" group-title="yy轮播", 射雕英雄传(83版)
+https://live.ottiptv.cc/yy/1354210357
 #EXTINF:-1 tvg-name="李连杰-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/李连杰-电影.png" group-title="yy轮播", 李连杰-电影
 https://live.ottiptv.cc/yy/1382736873
-#EXTINF:-1 tvg-name="洪金宝-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/洪金宝-电影.png" group-title="yy轮播", 洪金宝-电影
-https://live.ottiptv.cc/yy/1354924839
+#EXTINF:-1 tvg-name="成龙-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/成龙-电影.png" group-title="yy轮播", 成龙-电影
+https://live.ottiptv.cc/yy/1354888751
+#EXTINF:-1 tvg-name="赌神-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/赌神-电影.png" group-title="yy轮播", 赌神-电影
+https://live.ottiptv.cc/yy/1354889044
 #EXTINF:-1 tvg-name="周星驰-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/周星驰-电影.png" group-title="yy轮播", 周星驰-电影
 https://live.ottiptv.cc/yy/1354888671
-#EXTINF:-1 tvg-name="科幻动作-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/科幻动作-电影.png" group-title="yy轮播", 科幻动作-电影
-https://live.ottiptv.cc/yy/1382749948
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/动作电影.png" group-title="yy轮播", 动作电影
+https://live.ottiptv.cc/yy/1382745096
 #EXTINF:-1 tvg-name="举起手来-电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/举起手来-电影.png" group-title="yy轮播", 举起手来-电影
 https://live.ottiptv.cc/yy/1382736877
 #EXTINF:-1 tvg-name="伪装者-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/伪装者-电视剧.png" group-title="yy轮播", 伪装者-电视剧
@@ -59,6 +53,12 @@ https://live.ottiptv.cc/yy/1354936244
 https://live.ottiptv.cc/yy/1354931580
 #EXTINF:-1 tvg-name="父母爱情-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/父母爱情-电视剧.png" group-title="yy轮播", 父母爱情-电视剧
 https://live.ottiptv.cc/yy/1354926650
+#EXTINF:-1 tvg-name="风筝-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/风筝-电视剧.png" group-title="yy轮播", 风筝-电视剧
+https://live.ottiptv.cc/yy/1354931585
+#EXTINF:-1 tvg-name="闯关东-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/闯关东-电视剧.png" group-title="yy轮播", 闯关东-电视剧
+https://live.ottiptv.cc/yy/1383546866
+#EXTINF:-1 tvg-name="士兵突击-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/士兵突击-电视剧.png" group-title="yy轮播", 士兵突击-电视剧
+https://live.ottiptv.cc/yy/1382768483
 #EXTINF:-1 tvg-name="情满四合院-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/情满四合院-电视剧.png" group-title="yy轮播", 情满四合院-电视剧
 https://live.ottiptv.cc/yy/1382745089
 #EXTINF:-1 tvg-name="宰相刘罗锅-电视剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/宰相刘罗锅-电视剧.png" group-title="yy轮播", 宰相刘罗锅-电视剧
