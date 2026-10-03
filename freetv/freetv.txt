@@ -1,5 +1,5 @@
 #genre#
-更新时间,20261002 13:56:51
+更新时间,20261003 13:30:16
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -19,16 +19,3 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m
 CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 其它,#genre#
 SCTV16,https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
-yy轮播,#genre#
-李连杰-电影,https://live.ottiptv.cc/yy/1382736873
-洪金宝-电影,https://live.ottiptv.cc/yy/1354924839
-动作电影,https://live.ottiptv.cc/yy/1382745096
-国内喜剧-电影,https://live.ottiptv.cc/yy/1382735563
-举起手来-电影,https://live.ottiptv.cc/yy/1382736877
-伪装者-电视剧,https://live.ottiptv.cc/yy/1354936244
-风筝-电视剧,https://live.ottiptv.cc/yy/1354931585
-士兵突击-电视剧,https://live.ottiptv.cc/yy/1382768483
-情满四合院-电视剧,https://live.ottiptv.cc/yy/1382736848
-情满四合院-电视剧,https://live.ottiptv.cc/yy/1382745089
-神医喜来乐-电视剧,https://live.ottiptv.cc/yy/1382714119
-新白娘子传奇-电视剧,https://live.ottiptv.cc/yy/1354930969
