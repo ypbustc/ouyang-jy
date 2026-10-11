@@ -1,5 +1,5 @@
 #genre#
-更新时间,20261010 14:06:07
+更新时间,20261011 14:04:04
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -21,16 +21,23 @@ CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m
 周星驰-电影,https://live.ottiptv.cc/yy/1354888671
 SCTV16,https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 yy轮播,#genre#
+射雕英雄传(83版),https://live.ottiptv.cc/yy/1354210357
 李连杰-电影,https://live.ottiptv.cc/yy/1382736873
 洪金宝-电影,https://live.ottiptv.cc/yy/1354924839
 成龙-电影,https://live.ottiptv.cc/yy/1354888751
+赌神-电影,https://live.ottiptv.cc/yy/1354889044
 周星驰-电影,https://live.ottiptv.cc/yy/1354888671
 科幻动作-电影,https://live.ottiptv.cc/yy/1382749948
 动作电影,https://live.ottiptv.cc/yy/1382745096
 国内喜剧-电影,https://live.ottiptv.cc/yy/1382736862
+国内喜剧-电影,https://live.ottiptv.cc/yy/1382735563
+举起手来-电影,https://live.ottiptv.cc/yy/1382736877
 伪装者-电视剧,https://live.ottiptv.cc/yy/1354936244
 正阳门下-电视剧,https://live.ottiptv.cc/yy/1354931580
-风筝-电视剧,https://live.ottiptv.cc/yy/1354931585
+父母爱情-电视剧,https://live.ottiptv.cc/yy/1354926650
+闯关东-电视剧,https://live.ottiptv.cc/yy/1383546866
+情满四合院-电视剧,https://live.ottiptv.cc/yy/1382745089
+情满四合院-电视剧,https://live.ottiptv.cc/yy/1382736848
 宰相刘罗锅-电视剧,https://live.ottiptv.cc/yy/1382745191
-神医喜来乐-电视剧,https://live.ottiptv.cc/yy/1382714119
-新白娘子传奇-电视剧,https://live.ottiptv.cc/yy/1354930969
+宰相刘罗锅-电视剧,https://live.ottiptv.cc/yy/1353892468
+薛仁贵传奇-电视剧,https://live.ottiptv.cc/yy/1355260662
