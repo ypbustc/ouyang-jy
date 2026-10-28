@@ -1,10 +1,11 @@
 #genre#
-更新时间,20261027 13:20:47
+更新时间,20261028 13:58:29
 
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV9,https://xykt-fix.github.io/Y77.m3u8
@@ -15,18 +16,7 @@ CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CGTN,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 其它,#genre#
-周星驰-电影,https://live.ottiptv.cc/yy/1354888671
 SCTV16,https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
-yy轮播,#genre#
-成龙-电影,https://live.ottiptv.cc/yy/1354888751
-周星驰-电影,https://live.ottiptv.cc/yy/1354888671
-科幻动作-电影,https://live.ottiptv.cc/yy/1382749948
-国内喜剧-电影,https://live.ottiptv.cc/yy/1382735563
-举起手来-电影,https://live.ottiptv.cc/yy/1382736877
-伪装者-电视剧,https://live.ottiptv.cc/yy/1354936244
-风筝-电视剧,https://live.ottiptv.cc/yy/1354931585
-闯关东-电视剧,https://live.ottiptv.cc/yy/1383546866
-神医喜来乐-电视剧,https://live.ottiptv.cc/yy/1382714119
