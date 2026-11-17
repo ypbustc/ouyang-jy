@@ -1,4 +1,4 @@
-# 咪咕直播源 - 生成时间: 2026-11-16 08:12:04
+# 咪咕直播源 - 生成时间: 2026-11-17 09:26:32
 ##################################################
 
 
@@ -13,4 +13,4 @@
 # 陕西频道
 
 # 其它频道
-24小时城市联赛轮播台,http://gslbmgsplive.miguvideo.com/migu/lunbo/ouzhoubei/50/20240603/index.m3u8?msisdn=202611161616242dbcd7ad7d4d4e4697aca1e8b2150311&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20261116161624&Channel_ID=0116_2600033500-99000-201600010010028&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=52.225.29.105&SecurityKey=20261116161624&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6675d75451d2ddc2c93bf7a83a13e2e9&ddCalcu=96e6v27ae5l3da17a53485a17df2bd3d9cc2&sv=10004&ct=android
+24小时城市联赛轮播台,http://gslbmgsplive.miguvideo.com/migu/lunbo/ouzhoubei/50/20240603/index.m3u8?msisdn=20261117173055afe7b833226342329fb6fac932756f01&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20261117173055&Channel_ID=0116_2600033500-99000-201600010010028&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=52.156.133.230&SecurityKey=20261117173055&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ea04ec86039faefdce391fc53cb6abd1&ddCalcu=1edavb0aa4l6eabcc83650c3f91f9a3eefcd&sv=10004&ct=android
